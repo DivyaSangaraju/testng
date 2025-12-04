@@ -17,7 +17,7 @@ import java.time.Duration;
 
 public class DemoTest {
 
-    //test
+    //test trigger
     WebDriver driver;
     WebDriverWait wait;
     @BeforeMethod
